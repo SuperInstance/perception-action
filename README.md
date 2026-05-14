@@ -1,3 +1,11 @@
+# perception-action — ARCHIVED
+
+> **This repository is no longer actively maintained.**
+> Superseded by: **[github.com/SuperInstance/fleet-math-c](https://github.com/SuperInstance/fleet-math-c)**
+> Reason: SIMD perception-action loops now in fleet-math-c
+
+---
+
 # Perception-Action Cycle
 
 Fleet math in BOTH directions on LIVE [PLATO](https://github.com/SuperInstance/plato) data.
